@@ -1,0 +1,21 @@
+**Database Name: carrentalp**
+
+
+
+**Customer Login Details**
+
+Username: piyush
+Password: piyush
+
+
+Username: lucas
+Password: password
+
+
+**Employee Login Details**
+
+Username: harry
+Password: password
+
+Username: jenny
+Password: jenny
